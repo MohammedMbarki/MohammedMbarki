@@ -1,4 +1,15 @@
 Hi 👋, I'm mbarki mohamed
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
+💬 Ask me about Robotics
+
+📫 How to reach me mbarkimohamed000@gmail.com
+
+Connect with me:
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
