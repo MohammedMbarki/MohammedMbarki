@@ -56,7 +56,8 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40">
     </a>
-</div>
+
+
 
 ## Design and Visualization
 <p align="left">
