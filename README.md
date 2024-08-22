@@ -1,16 +1,16 @@
-
-<h1 align="center">Hi 👋, Mohamed Mbarki</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Mbarki</h1>
 <h3 align="center">I am a developer passionate about programming and multimedia creation. I have diverse experience in software development, graphic design, and 3D animation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="dextertaha" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
-- 📫 How to reach me **mbarkimohamed000@gmail.com**
-
+- 📫 How to reach me: **mbarkimohamed000@gmail.com**
 
 ## Languages and Tools
 
 ### Web Development
-<div class="icons">
+<div style="display: flex; gap: 10px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
     </a>
@@ -23,7 +23,7 @@
 </div>
 
 ### IDEs
-<div class="icons">
+<div style="display: flex; gap: 10px;">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
     </a>
@@ -33,7 +33,7 @@
 </div>
 
 ### Programming Languages
-<div class="icons">
+<div style="display: flex; gap: 10px;">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
     </a>
@@ -46,7 +46,7 @@
 </div>
 
 ### Multimedia Tools
-<div class="icons">
+<div style="display: flex; gap: 10px;">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40">
     </a>
@@ -56,18 +56,17 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40">
     </a>
-
-
+</div>
 
 ## Design and Visualization
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" alt="Design Tools" />
+    </a>
 </p>
 
 ## GitHub Statistics
-<div class="stats">
+<div align="center">
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmbarki&show_icons=true&locale=en&layout=compact" alt="Top Languages">
     </p>
