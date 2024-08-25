@@ -58,6 +58,43 @@
     </a>
 </div>
 
+### robotic and tool
+
+<div style="display: flex; gap: 15px; align-items: center;">
+    <!-- Lien vers PyBricks -->
+    <a href="https://pybricks.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/cf6f005f-117e-4622-895a-0a03242523a4" 
+             alt="PyBricks Logo" 
+             width="50" 
+             height="50"
+             style="border-radius: 5px;">
+    </a>
+    <a href="https://studio.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/af5648fd-f371-40b5-93ec-43709cdf3abd" 
+             alt="Capture d'écran 2024-08-26 003140" 
+             width="50" 
+             height="50"
+             style="border-radius: 5px;">
+    </a>
+</div>
+
+
+</div>
+
+
+</div>
+
+## os
+
+
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="40"  
+height="40"/>
+
+
+
+
+
+
 ## Design and Visualization
 <p align="left">
     <a href="https://skillicons.dev">
@@ -99,3 +136,6 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn">
     </a>
 </div>
+
+
+
