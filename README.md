@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mbarki</h1>
 <h3 align="center">I am a developer passionate about programming and multimedia creation. I have diverse experience in software development, graphic design, and 3D animation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmbarki&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmbarki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmbarki" alt="mohammedmbarki" /></a> </p>
+
 
 - 🔭 I’m currently working on [CS50X: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
