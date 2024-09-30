@@ -22,23 +22,22 @@
 ### Web Development
 <div style="display: flex; gap: 10px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
-    </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
     </a>
 </div>
 
 ### IDEs
 <div style="display: flex; gap: 10px;">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" idth="48" height="48">
     </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="40" height="40">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="48" height="48">
     </a>
 </div>
 
@@ -46,7 +45,7 @@
 <div style="display: flex; gap: 10px;">
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" idth="48" height="48">
     </a>
 </div>
 
@@ -59,15 +58,13 @@
     <a href="https://pybricks.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/cf6f005f-117e-4622-895a-0a03242523a4" 
              alt="PyBricks Logo" 
-             width="50" 
-             height="50"
+             idth="48" height="48""
              style="border-radius: 5px;">
     </a>
     <a href="https://studio.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/af5648fd-f371-40b5-93ec-43709cdf3abd" 
              alt="Capture d'écran 2024-08-26 003140" 
-             width="50" 
-             height="50"
+             idth="48" height="48"
              style="border-radius: 5px;">
     </a>
 </div>
@@ -81,7 +78,7 @@
 ## os
 
 
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="40"  
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" idth="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="40"  
 height="40"/>
 
 
