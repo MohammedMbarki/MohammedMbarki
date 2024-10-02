@@ -60,20 +60,16 @@
              alt="PyBricks Logo" 
              idth="48" height="48""
              style="border-radius: 5px;">
-    </a>
-    <a href="https://studio.io/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/af5648fd-f371-40b5-93ec-43709cdf3abd" 
-             alt="Capture d'écran 2024-08-26 003140" 
-             idth="48" height="48"
-             style="border-radius: 5px;">
-    </a>
-</div>
-
+        
+<a href="https://studio.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/edb12939-89fa-4278-ab11-1379f4e789bc"
+         alt="Capture d'écran 2024-08-26 003140" 
+         width="48" height="48"
+         style="border-radius: 5px;">
+</a>
 
 </div>
 
-
-</div>
 
 ## os
 
