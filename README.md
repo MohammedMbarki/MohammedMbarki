@@ -74,7 +74,7 @@
 ## os
 
 
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="macOS" idth="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="40"  
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="40"  
 height="40"/>
 
 
