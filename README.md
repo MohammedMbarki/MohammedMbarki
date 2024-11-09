@@ -64,7 +64,7 @@
 <a href="https://studio.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/edb12939-89fa-4278-ab11-1379f4e789bc"
          alt="Capture d'écran 2024-08-26 003140" 
-         width="48" height="48"
+         width="50" 
          style="border-radius: 5px;">
 </a>
 
