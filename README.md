@@ -129,36 +129,4 @@ height="40"/>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![mohammedmbarki's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedmbarki&theme=react-dark)](https://github.com/mohammedmbarki/github-readme-activity-graph)
