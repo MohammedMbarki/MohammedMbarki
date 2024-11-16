@@ -110,9 +110,6 @@ height="40"/>
     <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram">
     </a>
-    <a href="https://www.twitch.tv" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch">
-    </a>
     <a href="https://discord.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord">
     </a>
