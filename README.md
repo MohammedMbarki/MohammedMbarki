@@ -99,22 +99,26 @@ height="40"/>
 </div>
 
 
+
+[![mohammedmbarki's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedmbarki&theme=react-dark)](https://github.com/mohammedmbarki/github-readme-activity-graph)
+
+
 ## Connect with Me
-<div align="left">
+<div align="center">
     <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube">
     </a>
     <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram">
     </a>
     <a href="https://discord.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord">
     </a>
     <a href="mailto:mohammedmbarki@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
     </a>
 </div>
 
@@ -123,7 +127,7 @@ height="40"/>
 
 
 
-[![mohammedmbarki's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedmbarki&theme=react-dark)](https://github.com/mohammedmbarki/github-readme-activity-graph)
+
 
 
 
