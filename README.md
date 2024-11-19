@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mbarki</h1>
-<h3 align="center">I am a developer passionate about programming and multimedia creation. I have diverse experience in software development, graphic design, and 3D animation.</h3>
 
-
+<a href="https://github.com/mohammedmbarki" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&lines=Hello+World!+I+Am+Mohamed.;Frontend+Developer.;Computer+Science+Learner.;Passionate+about+Graphic+Design." alt="Typing Animation">
+</a>
 
 
 - 🔭 I’m currently working on [CS50X: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
