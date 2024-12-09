@@ -40,7 +40,13 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="48" height="48">
     </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/2f55afac-505e-4144-bddb-bbe6d9d1163f" alt="Arduino IDE" width="48" height="48">
+    </a>
 </div>
+
+
+
 
 ### Programming Languages
 <div style="display: flex; gap: 10px;">
