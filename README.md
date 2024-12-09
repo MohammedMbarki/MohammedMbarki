@@ -105,19 +105,10 @@ height="40"/>
 
 ## Connect with Me
 <div align="center">
-    <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube">
-    </a>
-    <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram">
-    </a>
-    <a href="https://discord.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord">
-    </a>
     <a href="mailto:mohammedmbarki@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/mohamed-m-barki-8777ba320/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
     </a>
 </div>
