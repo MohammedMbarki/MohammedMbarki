@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mbarki</h1>
 
 <a href="https://github.com/mohammedmbarki" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&lines=Hello+World!+I+Am+Mohamed.;Frontend+Developer.;Computer+Science+Learner.;Passionate+about+Graphic+Design." alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&lines=Hello+World!+I+Am+Mohamed.;Computer+Science+Learner.;Passionate+about+Graphic+Design." alt="Typing Animation">
 </a>
 
 
