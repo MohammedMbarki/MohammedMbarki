@@ -99,16 +99,40 @@
 </p>
 
 ## GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammedmbarki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmbarki&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph">
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=mohammedmbarki&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-trophy.vercel.app?username=mohammedmbarki&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy Graph">
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohammedmbarki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmbarki&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
-    <img src="https://streak-stats.demolab.com?user=mohammedmbarki&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph">
-    <img src="https://github-profile-trophy.vercel.app?username=mohammedmbarki&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph">
+  <a href="#-my-github-stats--" target="_blank">
+    <img alt="Most Commit Language" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammedmbarki&theme=transparent" />
+  </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/mohammedmbarki/github-readme-activity-graph" target="_blank">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmbarki&theme=react-dark" />
+  </a>
+</div>
 
-
-[![mohammedmbarki's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedmbarki&theme=react-dark)](https://github.com/mohammedmbarki/github-readme-activity-graph)
 
 
 ## Connect with Me
