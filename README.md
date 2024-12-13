@@ -21,40 +21,35 @@
 ## Languages and Tools
 
 ### Web Development
-<div style="display: flex; gap: 10px;">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
-    </a>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
 
-### IDEs
+
+### 
 <div style="display: flex; gap: 10px;">
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" idth="48" height="48">
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="48" height="48">
-    </a>
+<h2 align="left">IDE:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,arduino" />
+  </a>
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/2f55afac-505e-4144-bddb-bbe6d9d1163f" alt="Arduino IDE" width="48" height="48">
     </a>
+    </p>
 </div>
 
 
 
-
-### Programming Languages
-<div style="display: flex; gap: 10px;">
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" idth="48" height="48">
-    </a>
-</div>
+###
+<h2 align="left">Programming Languages:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+</p>
 
 
 
@@ -78,21 +73,28 @@
 </div>
 
 
-## os
+### 
+<h2 align="left">OS:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,linux" />
+  </a>
+</p>
+
+### DevOps
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub Icons" />
+  </a>
+</p>
 
 
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="40"  
-height="40"/>
 
 
-
-
-
-
-## Design and Visualization
+### Design and Visualization
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,ai,ae,ps,pr" alt="Design Tools" />
+        <img src="https://skillicons.dev/icons?i=ai,ps,pr" alt="Design Tools" />
     </a>
 </p>
 
