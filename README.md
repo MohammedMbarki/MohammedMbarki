@@ -121,11 +121,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <a href="#-my-github-stats--" target="_blank">
-    <img alt="Most Commit Language" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammedmbarki&theme=transparent" />
-  </a>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/mohammedmbarki/github-readme-activity-graph" target="_blank">
