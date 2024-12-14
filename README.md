@@ -47,7 +47,7 @@
 <h2 align="left">Programming Languages:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,c" />
   </a>
 </p>
 
