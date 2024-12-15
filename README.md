@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **mbarkimohamed000@gmail.com**
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=mohammedmbarki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 
