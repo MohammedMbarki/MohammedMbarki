@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CS50X: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C (arrays)**
 
 
 
