@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mbarki</h1>
 
 <a href="https://github.com/mohammedmbarki" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=22&lines=Hello+World!+I+Am+Mohamed.;Computer+Science+Learner.;Passionate+about+Graphic+Design." alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&lines=Hello+World!+I+Am+Mohamed.;Computer+Science+Learner.;Self-taught+CS50x+Student." alt="Typing Animation">
 </a>
+
 
 
 - 🔭 I’m currently working on [CS50X: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
