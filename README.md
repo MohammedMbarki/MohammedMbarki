@@ -74,6 +74,19 @@
 
 ---
 
+
+
+## 💼 Experiences  
+
+| Year           | Experience                                   |
+|--------------|----------------------------------|
+| 2023 - 2024 | **Robotics Competition (WRO, FLL)** |
+| 2024 - Present | **Web & Software Developer** |
+| 2024 - Present | **CS50X Student (Harvard) "in edx"** |
+
+
+
+
 ## 📊 GitHub Statistics  
 
 <table align="center">
