@@ -33,14 +33,6 @@
   </a>
 </p>
 
-### 🖥️ IDE & Development Tools  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,arduino" />
-  </a>
-  <img src="https://github.com/user-attachments/assets/2f55afac-505e-4144-bddb-bbe6d9d1163f" alt="Arduino IDE" width="48" height="48">
-</p>
-
 ### 💻 Programming Languages  
 <p align="left">
   <a href="https://skillicons.dev">
