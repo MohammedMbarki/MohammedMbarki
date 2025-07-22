@@ -29,7 +29,7 @@
 ### 🛠️ DevOps  
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws" alt="Git and GitHub Icons" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" alt="Git and GitHub Icons" />
   </a>
 </p>
 
@@ -40,10 +40,10 @@
   </a>
 </p>
 
-### 🖥️ Operating Systems  
+### 🖥️ Os and terminal knowledge 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ubuntu,windows,bash," />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 ### 🎨 Design & Visualization  
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ai,ps,pr" alt="Design Tools" />
+        <img src="https://skillicons.dev/icons?i=ai,ps,pr,figma,notion" alt="Design Tools" />
     </a>
 </p>
 
