@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/mohammedmbarki" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&lines=Hello+World!+I+Am+Mohamed.;Computer+Science+Learner.;Self-taught+CS50x+Student." alt="Typing Animation">
+        <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&lines=Hello+World!+I+Am+Mohamed.;Computer+Science+Learner.;vibe+codeer." alt="Typing Animation">
     </a>
 </div>
 
