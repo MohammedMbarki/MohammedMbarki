@@ -1,121 +1,99 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mbarki</h1>
 
 <div align="center">
-    <a href="https://github.com/mohammedmbarki" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&lines=Hello+World!+I+Am+Mohamed.;Computer+Science+Learner.;vibe+codeer." alt="Typing Animation">
-    </a>
+  <a href="https://github.com/mohammedmbarki" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Hello+World!+I+Am+Mohamed.;Computer+Science+Learner.;Coding+is+my+vibe.">
+  </a>
 </div>
-
----
-
-### 📌 About Me  
-- 📫 How to reach me: **mbarkimohamed000@gmail.com**  
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mohammedmbarki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=mohammedmbarki&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 ---
 
-## 🚀 Skills & Tools  
+## 🧑‍💻 About Me
 
-### 🌐 Web Development  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,dynamodb" />
-  </a>
+- 💻 Web & Software Developer  
+- 🤖 Robotics Enthusiast (WRO, FLL)  
+- 📚 Currently studying **CS50x** by Harvard on edX  
+- 📫 Contact me: **mbarkimohamed000@gmail.com**
+
+---
+
+## ⚙️ Skills & Tools
+
+### 🧱 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
-### 🛠️ DevOps  
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" alt="Git and GitHub Icons" />
-  </a>
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" />
 </p>
 
-### 💻 Programming Languages  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c" />
-  </a>
+### 💡 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c" />
 </p>
 
-### 🖥️ Os and terminal knowledge 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ubuntu,windows,bash," />
-  </a>
+### 🖥️ OS & CLI
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,bash" />
 </p>
 
-### 🤖 Robotics & Tools  
-<p align="left">
-    <a href="https://pybricks.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/cf6f005f-117e-4622-895a-0a03242523a4" alt="PyBricks Logo" width="48" height="48">
-    </a>
-    <a href="https://studio.io/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/edb12939-89fa-4278-ab11-1379f4e789bc" alt="Studio.io Logo" width="50">
-    </a>
+### 🤖 Robotics & Platforms
+<p>
+  <img src="https://github.com/user-attachments/assets/cf6f005f-117e-4622-895a-0a03242523a4" width="48" height="48" alt="PyBricks">
+  <img src="https://github.com/user-attachments/assets/edb12939-89fa-4278-ab11-1379f4e789bc" width="50" alt="Studio.io">
 </p>
 
-### 🎨 Design & Visualization  
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ai,ps,pr,figma,notion" alt="Design Tools" />
-    </a>
+### 🎨 Design & UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,notion" />
 </p>
 
 ---
 
+## 📆 Experience Timeline
 
+| Year           | Description                                  |
+|----------------|----------------------------------------------|
+| 2023 - 2024    | 🏆 Participated in **WRO & FLL** Robotics     |
+| 2024 - Present | 🌐 Building web & software projects           |
+| 2024 - Present | 🎓 **CS50X Student** (Harvard via edX)        |
 
-## 💼 Experiences  
+---
 
-| Year           | Experience                                   |
-|--------------|----------------------------------|
-| 2023 - 2024 | **Robotics Competition (WRO, FLL)** |
-| 2024 - Present | **Web & Software Developer** |
-| 2024 - Present | **CS50X Student (Harvard) "in edx"** |
-
-
-
-
-## 📊 GitHub Statistics  
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohammedmbarki&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmbarki&locale=en&layout=compact&langs_count=5&theme=dracula" height="150">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=mohammedmbarki&locale=en&theme=dracula&border_radius=5" height="150">
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app?username=mohammedmbarki&theme=dracula&column=3&margin-w=8&margin-h=8" height="150">
-    </td>
-  </tr>
-</table>
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mohammedmbarki/github-readme-activity-graph" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmbarki&theme=react-dark" alt="Activity Graph">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedmbarki&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmbarki&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=mohammedmbarki&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedmbarki&theme=dracula&margin-w=10&margin-h=10" height="150"/>
 </div>
 
 ---
 
-## 🌍 Connect with Me  
+## 🗂️ GitHub Activity Graph
+
 <div align="center">
-    <a href="mailto:mohammedmbarki@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
-    </a>
-    <a href="https://www.linkedin.com/in/mohamed-m-barki-8777ba320/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-    </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmbarki&theme=react-dark&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:mbarkimohamed000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-m-barki-8777ba320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
 </div>
 
 ---
@@ -125,6 +103,5 @@
 </p>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
