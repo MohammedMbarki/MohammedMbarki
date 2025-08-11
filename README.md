@@ -25,7 +25,7 @@
 
 ### 🧱 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,nextjs" />
 </p>
 
 ### ⚙️ DevOps & Tools
