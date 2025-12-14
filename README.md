@@ -25,28 +25,22 @@
 
 ### 🧱 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,nextjs,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,netlify" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,bash,npm" />
 </p>
 
 ### 💡 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c" />
+  <img src="https://skillicons.dev/icons?i=py,c,ts,js,latex" />
 </p>
 
 ### 🖥️ OS & CLI
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,bash" />
-</p>
-
-### 🤖 Robotics & Platforms
-<p>
-  <img src="https://github.com/user-attachments/assets/cf6f005f-117e-4622-895a-0a03242523a4" width="48" height="48" alt="PyBricks">
-  <img src="https://github.com/user-attachments/assets/edb12939-89fa-4278-ab11-1379f4e789bc" width="50" alt="Studio.io">
 </p>
 
 ### 🎨 Design & UI/UX
