@@ -35,7 +35,7 @@
 
 ### 💡 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,ts,js,latex" />
+  <img src="https://skillicons.dev/icons?i=py,c,ts,js,latex,php,mysql" />
 </p>
 
 ### 🖥️ OS & CLI
