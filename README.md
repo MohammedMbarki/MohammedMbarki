@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 - 💻 Web & Software Developer  
-- 🤖 Robotics Enthusiast (WRO, FLL)  
+- 🖥️ archlinux user   
 - 📚 Currently studying **CS50x** by Harvard on edX  
 - 📫 Contact me: **mbarkimohamed000@gmail.com**
 
