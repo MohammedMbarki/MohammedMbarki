@@ -40,7 +40,7 @@
 
 ### 🖥️ OS & CLI
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi,bash,arch" />
 </p>
 
 ### 🎨 Design & UI/UX
